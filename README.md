@@ -40,7 +40,6 @@ See [LICENSE](./LICENSE) for details.
 
 * 🌍 [Website](https://optimihost.com)
 * 🛠 [Status Page](https://status.optimihost.com)
-* 🧠 [Knowledge Base](https://kb.optimihost.com)
 
 ---
 

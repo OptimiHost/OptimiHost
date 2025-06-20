@@ -1,2 +1,2 @@
 # OptimiHost
-OptimiHost is a hosting provider based in Falkenstein, Germany
+A monorepo that powers [optimihost](https://optimihost.com)

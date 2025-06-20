@@ -1,11 +1,5 @@
 ![Desktop - 1(1)](https://github.com/user-attachments/assets/e05a267a-00ec-40e6-a2c3-fa34ae4a1ce9)
 ---
-Sure! Here’s a professional and informative `README.md` template tailored for a monorepo that powers **OptimiHost**, a hosting platform:
-
----
-
-```markdown
-# OptimiHost Monorepo
 
 Welcome to the **OptimiHost Monorepo** – the unified codebase that powers [OptimiHost](https://optimihost.com), a high-performance hosting provider focused on delivering seamless infrastructure for Minecraft servers, web hosting, TeamSpeak, and more.
 
@@ -50,9 +44,4 @@ See [LICENSE](./LICENSE) for details.
 
 > Made with ❤️ by the OptimiHost Team
 
-```
 
----
-
-Let me know if your monorepo has a different structure, uses other languages (like Java or PHP), or if you want branding/design references included.
-```

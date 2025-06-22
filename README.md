@@ -1,5 +1,6 @@
-![Desktop - 1(1)](https://github.com/user-attachments/assets/e05a267a-00ec-40e6-a2c3-fa34ae4a1ce9)
+![Desktop - 1(2)](https://github.com/user-attachments/assets/7f64add0-1e41-4da9-b5b2-6d28d5b3becc)
 ---
+
 <p align="center">
   <strong>Unified codebase that powers the entire OptimiHost infrastructure</strong><br>
   <em>Reliable • Scalable • Developer-Friendly</em>

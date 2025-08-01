@@ -57,7 +57,11 @@ Optimi has been able to fix these issues, and eventually, the dashboard is now u
 optimihost.com, however, is down. It is just a redirector to the dashboard. The website in general is not up. 
 As thesomewhatyou, I got fired and shortly rehired. All issues that have been broken are resolved. 
 optimihost.com will recover shortly. 
+
+
 -thesomewhatyou 
+
+
 (This message will reside for a month.)
 
 

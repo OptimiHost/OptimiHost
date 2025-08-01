@@ -46,4 +46,15 @@ See [LICENSE](./LICENSE) for details.
 
 > Made with ❤️ by the OptimiHost Team
 
+# Oh, That's Bad
+
+**Recently, an outage regarding OptimiHost has took down everything.** 
+To be fair we use Hetzner as a cloud computing services. What does this mean, though? Hetzner uses a detection system called ASS (I'd prefer to call it HASS) which takes security actions based on what happened. Somehow, through our CDN (which transports Player2 AppImages), a hacker ran a netscan spam. This triggered the ASS, which got OptimiDev's IP banned and got we got a message from the federal office. This got us in a bunch of legal trouble. 
+Optimi has been able to fix these issues, and eventually, the dashboard is now up. 
+optimihost.com, however, is down. It is just a redirector to the dashboard. The website in general is not up. 
+As thesomewhatyou, I got fired and shortly rehired. All issues that have been broken are resolved. 
+optimihost.com will recover shortly. 
+-thesomewhatyou 
+(This message will reside for a month.)
+
 

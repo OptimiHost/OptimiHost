@@ -56,7 +56,7 @@ To be fair we use Hetzner as a cloud computing service. What does this mean, tho
 Optimi has been able to fix these issues, and eventually, the dashboard is now up. 
 optimihost.com, however, is down. It is just a redirector to the dashboard. The website in general is not up. 
 As thesomewhatyou, I got fired and shortly rehired. All issues that have been broken are resolved. 
-optimihost.com will recover shortly. 
+Update: As of August 4th, OptimiHost is fully back to normal. No issues are found. Our panel, however, was down for a short bit. No data was lost, but a discovery was made that it was unstable, but coooooool. 
 
 
 -thesomewhatyou 
